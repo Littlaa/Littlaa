@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Contact
+
+[My LinkedIn page](http://www.linkedin.com/in/mona-dagsland-56ba85226)
+
 ## Sources
 
 [Header](https://leviarista.github.io/github-profile-header-generator/)
