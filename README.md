@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 # About me
 
 - From the 1990s :floppy_disk:
-- Frontend Developer :computer:
+- Studying to be a Frontend Developer :computer: :mortar_board:
 - I'm a night 🦉
+
+## Working on
 
 ## Contact
 
