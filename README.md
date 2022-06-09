@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About me
+# :book: About me
 
 - From the 1990s :floppy_disk:
 - Studying to be a Frontend Developer :computer: :mortar_board:
+- Gamer :video_game:
 - I'm a night 🦉
 
-## Working on
+## :wrench: Working on
 
-## Contact
+## :mailbox: Contact
 
 [My LinkedIn page](http://www.linkedin.com/in/mona-dagsland-56ba85226)
 
