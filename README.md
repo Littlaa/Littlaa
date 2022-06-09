@@ -31,9 +31,11 @@ Here are some ideas to get you started:
 - Start a new project to keep coding up-to-date
 - Learn React
 
-## :memo: Bucket list
+## :memo: Bucket list (In development)
 
 - [ ] Parachute jump
+- [ ] Eat at a Michellin star resturant
+- [ ] Travel the world
 
 ## :mailbox: Contact
 
