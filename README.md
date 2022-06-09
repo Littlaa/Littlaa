@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ## :memo: Bucket list
 
+- [ ] Parachute jump
+
 ## :mailbox: Contact
 
 [My LinkedIn page](http://www.linkedin.com/in/mona-dagsland-56ba85226)
