@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 [My LinkedIn page](http://www.linkedin.com/in/mona-dagsland-56ba85226)
 
-## Sources
+## Sources used to make this profile README
 
 [Header](https://leviarista.github.io/github-profile-header-generator/)
+
+[Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
