@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 
 ## :wrench: Working on
 
+- Getting better at API fetches
+- Finishing up projects
+- Start a new project to keep coding up-to-date
+- Learn React
+
 ## :mailbox: Contact
 
 [My LinkedIn page](http://www.linkedin.com/in/mona-dagsland-56ba85226)
