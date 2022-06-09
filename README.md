@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a night 🦉
+# About me
+
+- I'm a night 🦉
 
 ## Contact
 
