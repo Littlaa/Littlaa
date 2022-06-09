@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 # About me
 
+- Frontend developer :floppy_disk:
 - I'm a night 🦉
 
 ## Contact
