@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 - Gamer :video_game:
 - I'm a night 🦉
 
-## Languages
-
 ## :wrench: Working on
 
 - Getting better at API fetches
