@@ -17,7 +17,7 @@
 ## :memo: Bucket list (In development)
 
 - [ ] Parachute jump
-- [ ] Eat at a Michellin star resturant
+- [ ] Eat at a Michelin star restaurant
 - [ ] Travel the world
 
 ## :chart: Languages
