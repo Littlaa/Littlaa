@@ -48,3 +48,5 @@ Here are some ideas to get you started:
 [Header](https://leviarista.github.io/github-profile-header-generator/)
 
 [Emoji:star:](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+[Stats-Languages](https://github.com/anuraghazra/github-readme-stats)
