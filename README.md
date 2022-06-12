@@ -20,7 +20,7 @@
 - [ ] Eat at a Michellin star resturant
 - [ ] Travel the world
 
-## Languages
+## :chart: Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Littlaa&layout=compact&hide=shell,ruby)](https://github.com/anuraghazra/github-readme-stats)
 
