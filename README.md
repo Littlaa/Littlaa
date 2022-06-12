@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 [Header](https://leviarista.github.io/github-profile-header-generator/)
 
 [Emoji:star:](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Littlaa)](https://github.com/Littlaa/github-readme-stats)
