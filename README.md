@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 
 [Emoji:star:](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Littlaa)](https://github.com/Littlaa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Littlaa&layout=compact)](https://github.com/Littlaa/github-readme-stats)
