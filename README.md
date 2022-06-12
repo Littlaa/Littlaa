@@ -19,6 +19,7 @@
 - [ ] Parachute jump
 - [ ] Eat at a Michelin star restaurant
 - [ ] Travel the world
+- [ ] Learn piano
 
 ## :chart: Languages
 
