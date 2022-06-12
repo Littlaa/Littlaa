@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 - [ ] Eat at a Michellin star resturant
 - [ ] Travel the world
 
+## Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Littlaa&layout=compact&hide=shell,ruby)](https://github.com/Littlaa/github-readme-stats)
 
 ## :mailbox: Contact
