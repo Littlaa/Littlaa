@@ -28,7 +28,7 @@
 
 [My LinkedIn page](http://www.linkedin.com/in/mona-dagsland-56ba85226)
 
-## Sources used to make this profile README
+## :heart: Sources used to make this profile README
 
 [Header](https://leviarista.github.io/github-profile-header-generator/)
 
