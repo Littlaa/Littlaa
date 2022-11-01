@@ -20,7 +20,7 @@
 - [ ] Eat at a Michelin star restaurant
 - [ ] Travel the world
 - [ ] Learn piano
-- [ ] Super Nintendo World Japan
+- [ ] Super Nintendo World Japan with OJ
 
 ## :chart: Languages
 
