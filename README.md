@@ -3,17 +3,16 @@
 # :book: About me
 
 - From the 1990s :floppy_disk:
-- Working as a Software Developer :computer: :mortar_board:
+- Working as a Software Developer :computer:
 - Gamer :video_game:
 - I'm a night 🦉
 
 ## :wrench: Working on
 
-- Getting better at API fetches
 - Finishing up projects
-- Start a new project to keep coding up-to-date
-- Learn React
+- Be better at React
 - Learn Vue and Nuxt for work
+- Learn more Backend stuff
 
 ## :memo: Bucket list (In development)
 
