@@ -3,7 +3,7 @@
 # :book: About me
 
 - From the 1990s :floppy_disk:
-- Studying to be a Frontend Developer :computer: :mortar_board:
+- Working as a Software Developer :computer: :mortar_board:
 - Gamer :video_game:
 - I'm a night 🦉
 
