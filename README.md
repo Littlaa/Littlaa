@@ -13,6 +13,7 @@
 - Finishing up projects
 - Start a new project to keep coding up-to-date
 - Learn React
+- Learn Vue and Nuxt for work
 
 ## :memo: Bucket list (In development)
 
